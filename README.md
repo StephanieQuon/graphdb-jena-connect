@@ -12,8 +12,11 @@ Set up instructions:
 - Click "import" on the left navigation bar, and click RDF
 - Click upload RDF files and upload ngbo.owl file
 - Click "SPARQL" on the left navigation bar to open SPARQL query & update editor window
-- Click "run" in the bottom right corner to test a SPARQL query
+- Click "run" in the bottom right corner to test a SPARQL query with the default code
 
 2) Set up front-end web app
-- Download front-end from https://github.com/Dalalghamdi/NGBO
+- Download front-end web app code from https://github.com/Dalalghamdi/NGBO
 - Download Apache Jena Fuseki from https://jena.apache.org/download/index.cgi
+- Download Eclipse IDE from https://www.eclipse.org/ide/
+
+
