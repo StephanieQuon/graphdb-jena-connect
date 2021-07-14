@@ -1,10 +1,19 @@
 # graphdb-jena-connect
 
+Reference links:
+- Installing GraphDB with Jena https://graphdb.ontotext.com/free/using-graphdb-with-jena.html
+- Using Jena with Eclipse https://jena.apache.org/tutorials/using_jena_with_eclipse.html
+
 Set up instructions: 
 
-1) Download front-end from https://github.com/Dalalghamdi/NGBO
-2) Download GraphDB free from https://graphdb.ontotext.com/
-3) Download Apache Jena Fuseki from https://jena.apache.org/download/index.cgi
-4) Launch GraphDB locally
-5) Click "import" on the left navigation bar, and click RDF
-6) Click upload RDF files and upload ngbo.owl file
+1) Set up GraphDB
+- Download GraphDB free from https://graphdb.ontotext.com/
+- Launch GraphDB locally
+- Click "import" on the left navigation bar, and click RDF
+- Click upload RDF files and upload ngbo.owl file
+- Click "SPARQL" on the left navigation bar to open SPARQL query & update editor window
+- Click "run" in the bottom right corner to test a SPARQL query
+
+2) Set up front-end web app
+- Download front-end from https://github.com/Dalalghamdi/NGBO
+- Download Apache Jena Fuseki from https://jena.apache.org/download/index.cgi
