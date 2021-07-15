@@ -16,6 +16,7 @@ Set up instructions:
 
 2) Set up front-end web app
 - Download front-end web app code from https://github.com/Dalalghamdi/NGBO
+- Install a Java JDK 1.8.x from https://www.oracle.com/ca-en/java/technologies/javase-downloads.html
 - Download Apache Jena Fuseki from https://jena.apache.org/download/index.cgi
 - Download Eclipse IDE from https://www.eclipse.org/ide/
 
