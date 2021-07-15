@@ -19,5 +19,6 @@ Set up instructions:
 - Install a Java JDK 1.8.x from https://www.oracle.com/ca-en/java/technologies/javase-downloads.html
 - Download Apache Jena Fuseki from https://jena.apache.org/download/index.cgi
 - Download Eclipse IDE from https://www.eclipse.org/ide/
+- Download ARQ 2.9.3 from https://repository.apache.org/content/repositories/releases/org/apache/jena/jena-arq/ 
 
 
