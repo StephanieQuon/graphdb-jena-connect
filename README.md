@@ -27,3 +27,11 @@ For using pycharm
 5) Connect python as the intepreter in pycharm through the bottom right corner
 6) Install flask following instructions from https://flask.palletsprojects.com/en/2.0.x/installation/
 7) Right click on main.py in NGBOProject-main, and click "run" to run the web app locally
+
+Regular use of web app
+1) Open pycharm
+2) Open NGBOProject and make sure pythin is connected as the interpreter 
+3) Launch fuseki server through downloading the apache jena fuseki file and opening fuseki-server.bat or fuseki-server
+4) Download Java JDK 11 
+5) Launch localhost:3030 and upload ngbo.owl file with /NGBO as the sparql end point
+6) Right click on main.py in NGBOProject-main, and click "run" to run the web app locally
