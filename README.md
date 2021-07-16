@@ -21,7 +21,7 @@ Set up front-end web app
 
 For using pycharm
 1) Download pycharm community version from https://www.jetbrains.com/pycharm/download/#section=mac
-2) Install python
+2) Install python from https://www.python.org/downloads/
 3) Download front end from https://github.com/Dalalghamdi/NGBOProject
 4) Open front end project file in pycharm using "open project"
 5) Connect python as the intepreter in pycharm through the bottom right corner
